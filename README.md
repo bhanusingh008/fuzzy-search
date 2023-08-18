@@ -12,4 +12,4 @@ Replace "name" with the query.
 
 ScreenShot:
 
-<img width="959" alt="Screenshot 2023-08-13 230738" src="https://github.com/bhanusingh008/fuzzy-search/assets/122738012/f21e4248-19c6-4240-b87b-c3b083dcc395">
+<img width="959" alt="Screenshot 2023-08-13 230738" src="https://github.com/bhanusingh008/fuzzy-search/assets/122738012/3c13bb6e-da84-4ce6-be65-688aa6181e24">
